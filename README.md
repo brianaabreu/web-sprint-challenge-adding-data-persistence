@@ -47,12 +47,17 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. Explain the difference between `Relational Databases` and `SQL`.
+    SQL is a language that is used when you want to view or make changes to a database. 
+    Rational Databases store data points that are related to each other and the RD gives access to the data within the databases.
 
 2. Why do tables need a `primary key`?
+    This identifies each item uniquely
 
 3. What is the name given to a table column that references the primary key on another table.
+    foreign key
 
 4. What do we need in order to have a _many to many_ relationship between two tables.
+     intermediary table that holds foreign keys that reference the primary key on the related tables
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
